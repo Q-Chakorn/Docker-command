@@ -3,7 +3,7 @@ install docker sudo snap install docker
 sudo apt-get update
 
 1) คำสั่งดูเลขเวอร์ชั่น docker engine ในเครื่อง
-	docker -v 
+	- docker -v 
 
 2) คำสั่งล็อกอินเข้าไปใน docker hub (ที่เก็บไฟล์ image ของ docker)
 	docker login
