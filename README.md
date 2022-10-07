@@ -64,7 +64,7 @@ sudo apt-get update
 	- docker logs 
 
 16) คำสั่งคำสั่งสร้างไฟล์ image
-	- docker build [OPTIONS] PATH | URL | -
+	- docker build [OPTIONS] PATH | URL | : TAG
 	- sudo docker build -t avalantglobal/oneweb4-designer-suites:1234
 
 17) คำสั่ง commit ไฟล์ image ที่เราสร้าง
